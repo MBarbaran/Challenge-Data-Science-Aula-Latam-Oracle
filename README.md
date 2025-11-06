@@ -34,4 +34,4 @@ El objetivo fue analizar el desempeño comercial de cuatro tiendas, evaluando in
 - GitHub para documentación y versionado
 
 ## 💼 Autor
-Maria Barbaran - Proyecto educativo de análisis de datos con Python, como parte del programa Data Science ONE (G9) de Alura LATAM.
+Maria Barbaran - Proyecto educativo de análisis de datos con Python realizado como parte del programa Data Science ONE (G9) de Alura LATAM.
