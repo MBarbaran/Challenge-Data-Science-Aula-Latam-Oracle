@@ -3,8 +3,7 @@
 Este proyecto forma parte del desafío de la especialización **Data Science ONE (G9)** de **Oracle Next Education – Alura LATAM**.    
 El objetivo fue analizar el desempeño comercial de cuatro tiendas, evaluando ingresos, categorías de productos, calificaciones, costos de envío y desempeño geográfico, para ayudar al Sr. Juan a decidir cuál conviene vender y reinvertir en un nuevo negocio.
 
-🔗 **Abrir el notebook en Google Colab:**  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ux1C_PT1CAXwOG5umOefU-XOfa35IoHx#scrollTo=0iAHO1FFQElS)
+🔗 **Abrir el notebook en Google Colab:**  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ux1C_PT1CAXwOG5umOefU-XOfa35IoHx#scrollTo=0iAHO1FFQElS)
 
 ## 📊 Contenido del análisis
 - Ingresos totales por tienda  
