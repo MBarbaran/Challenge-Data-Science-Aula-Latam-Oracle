@@ -15,13 +15,13 @@ El objetivo fue analizar el desempeño comercial de cuatro tiendas, evaluando in
 
 ## 🌎 Visualizaciones destacadas
 ### Ingreso total por tienda
-![Ingresos por tienda](images/grafico_ingresos.png)
+![Ingresos por tienda](grafico_categorias.png)
 
 ### Ventas por categoría vs cantidad vendida
-![Ventas por categoría](images/grafico_categorias.png)
+![Ventas por categoría](grafico_categorias.png)
 
 ### Mapa de calor de concentración de ventas
-![Mapa de calor de ventas](images/grafico_heatmap.png)
+![Mapa de calor de ventas](grafico_heatmap.png)
 
 ## 📈 Resultados y Conclusión
 
