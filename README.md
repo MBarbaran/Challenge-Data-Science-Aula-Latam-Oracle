@@ -1,4 +1,4 @@
-# Challenge-Data-Science-Aula-Latam-Oracle
+# Challenge Data Science G9 - Aula Latam Oracle
 
 Este proyecto forma parte del desafío de análisis de datos de **Alura Latam** (Data Science ONE – G9).  
 El objetivo fue analizar el desempeño comercial de cuatro tiendas, evaluando ingresos, categorías de productos, calificaciones, costos de envío y desempeño geográfico.
