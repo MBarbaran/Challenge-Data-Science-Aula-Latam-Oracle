@@ -15,7 +15,7 @@ El objetivo fue analizar el desempeño comercial de cuatro tiendas, evaluando in
 
 ## 🌎 Visualizaciones destacadas
 ### Ingreso total por tienda
-![Ingresos por tienda](grafico_categorias.png)
+![Ingresos por tienda](grafico_ingresos.png)
 
 ### Ventas por categoría vs cantidad vendida
 ![Ventas por categoría](grafico_categorias.png)
